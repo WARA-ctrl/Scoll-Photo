@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Abel&family=Dosis:wght@300&family=Sono:wght@500&display=swap");
+* {
+  font-family: "Sono", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.photos {
+  margin: 10px 20%;
+
+  /* align-items: center; */
+}
+
+.photos img {
+  width: 100%;
+  margin-top: 5px;
+}
+
+h1 {
+  padding-top: 4%;
+  padding-bottom: 2%;
+  margin-top: 5px;
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 3vw;
+  letter-spacing: 4px;
+}
